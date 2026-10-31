@@ -27,7 +27,7 @@ The full plan is in [`week_1_to_52_software_engineer_roadmap.pdf`](week_1_to_52_
 
 | Week | Topic | What I built | Status |
 |------|-------|--------------|--------|
-| [1](week_1/) | Computational thinking & setup (CS50x Week 0) | Pseudocode exercises, search notes, *The Dragon's Choice* Scratch game | ✅ Done |
+| [1](week_1/) | Computational thinking & setup (CS50x Week 0) | Pseudocode exercises, search notes, *The Dragon's Choice* Scratch https://scratch.mit.edu/projects/1397914362/| ✅ Done |
 | 2 | Variables, conditionals & loops (CS50x Week 1) | — | ⏳ Next |
 
 ## Week 1: Computational Thinking & Setup
